@@ -1,0 +1,6 @@
+[submodule "leia/plugin.program.flixwizard"]
+	path = leia/plugin.program.flixwizard
+	url = https://github.com/unkn0wn234/plugin.program.flixwizard
+[submodule "matrix/plugin.program.flixwizard"]
+	path = matrix/plugin.program.flixwizard
+	url = https://github.com/unkn0wn234/plugin.program.flixwizard
