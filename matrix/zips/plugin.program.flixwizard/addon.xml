@@ -16,7 +16,7 @@
     
     <extension point="xbmc.addon.metadata">
         <summary lang="en">[COLOR limegreen]Flix[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR limegreen]Flix[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs. It is also the home of the KodiFlix Build and hopefully more to come. Push Pull Test 3</description>
+        <description lang="en">[COLOR limegreen]Flix[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs. It is also the home of the KodiFlix Build and hopefully more to come. Push Pull Test 5</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/unkn0wn234/plugin.program.flixwizard/</source>
