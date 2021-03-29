@@ -14,11 +14,11 @@ description="The KodiFlix Build for K18, emulating Netflix. Built on Titan Bingi
 
 name="Flix3"
 version="2.21"
-url="https://www.googleapis.com/drive/v3/files/11TGwop7MCLqPrwnAtQapXmc2072Zytdx?alt=media&key=AIzaSyBVkQCeCs708NnlgyUitmbA08dpGV2FGNo"
+url="https://www.googleapis.com/drive/v3/files/11TGwop7MCLqPrwnAtQapXmc2072Zytdx?alt=media&key=AIzaSyCquOr3scdIaGr0uNqGy8tFcOosuqYWXTc"
 minor="http://"
 gui="http://"
 kodi="18"
-theme="http://"
+theme="https://raw.githubusercontent.com/unkn0wn234/repository.flixwizard/master/wizardfiles/KodiFlix/themes.txt"
 icon="http://"
 fanart="http://"
 preview="http://"
