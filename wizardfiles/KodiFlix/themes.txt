@@ -1,5 +1,5 @@
 name="Flixxy"
-url="https://drive.google.com/uc?export=download&id=13BRM7oqiHWUP58Yend6IsDpw2VACCzLb"
+url="https://www.googleapis.com/drive/v3/files/13BRM7oqiHWUP58Yend6IsDpw2VACCzLb?alt=media&key=AIzaSyCquOr3scdIaGr0uNqGy8tFcOosuqYWXTc"
 icon="http://"
 fanart="http://"
 description="Trying out a theme"
