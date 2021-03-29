@@ -1,5 +1,5 @@
 name="Flixxy"
-url="https://www.googleapis.com/drive/v3/files/13BRM7oqiHWUP58Yend6IsDpw2VACCzLb?alt=media&key=AIzaSyCquOr3scdIaGr0uNqGy8tFcOosuqYWXTc"
+url="https://www.dropbox.com/s/si7rcx299zkohzl/Flixxy.zip?dl=1"
 icon="http://"
 fanart="http://"
-description="Trying out a theme"
+description="Flixxy theme for Flix3"
