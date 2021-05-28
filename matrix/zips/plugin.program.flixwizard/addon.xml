@@ -21,6 +21,14 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/unkn0wn234/plugin.program.flixwizard/</source>
         <news>
+2.0.7
+ - Fix Error when using default log settings
+2.0.6
+ - Fix regex for formatting tags
+ - Fix theme selection after build install
+ - Fix downloading into invalid path
+2.0.5
+ - Add Enable All Add-ons after Build Install
 2.0.4
  - Fix leftover broken dialogs
 2.0.3
