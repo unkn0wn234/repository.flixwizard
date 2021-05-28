@@ -10,3 +10,6 @@
 [submodule "leia/skin.embuarymod"]
 	path = leia/skin.embuarymod
 	url = https://github.com/unkn0wn234/skin.embuarymod
+[submodule "matrix/plugin.video.seren"]
+	path = matrix/plugin.video.seren
+	url = https://github.com/unkn0wn234/plugin.video.seren
